@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aJCpjhFen8OgTKj7FZGxNj6wkKXRG2kCrpctblAYr3M=",
+  "Source": "webapidb",
+  "BasePath": "_content/webapidb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
